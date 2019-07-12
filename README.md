@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 歡迎使用奇奇直播
 
-You can use the [editor on GitHub](https://github.com/gogovirs/liveassets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+現在你可以選擇對應的版本下載[下載Android Mobile](./release.apk) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+請認準下載來源，奇奇直播不收集您的個人訊息
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gogovirs/liveassets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 頻道規則
+目前我們僅收錄公共頻道，對於版權或者限制，造謠，片面性媒體持禁止政策。
+奇奇直播願意維護中華民族利益，擁護祖國統一才是長久之計。
+奇奇直播為海外華人群眾傳遞祖國的聲音。
+請勿用於非正當用途，否則後果自負。
