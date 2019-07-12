@@ -1,6 +1,6 @@
 ## 歡迎使用奇奇直播
 
-現在你可以選擇對應的版本下載[下載Android Mobile](./qiqilive_1.0.0.2_release.apk) 
+現在你可以選擇對應的版本下載[下載Android Mobile](https://app.clodra.com/dl/qiqilive_1.0.0.2_release.apk) 
 當前最新版本 1.0.0.2
 
 請認準下載來源，奇奇直播不收集您的個人訊息
